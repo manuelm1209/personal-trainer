@@ -61,7 +61,7 @@ This project leverages the OpenAI API to create an AI assistant specialized in p
 
 ## Author
 
-Developed by [Your Name].
+Developed by Manuel Montoya.
 
 ## License
 
