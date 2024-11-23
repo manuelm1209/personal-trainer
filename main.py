@@ -9,7 +9,7 @@ load_dotenv()
 
 # === OpenAI API Client Configuration ===
 client = openai.OpenAI()
-model = "gpt-3.5-turbo-16k"
+model = "gpt-4o-mini"
 
 # === Assign Existing IDs ===
 assistant_id = "asst_apdzzpUtS9w6lA56dKKC07zt"
