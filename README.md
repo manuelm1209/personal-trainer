@@ -22,7 +22,7 @@ This project leverages the OpenAI API to create an AI assistant specialized in p
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/personal-trainer
+   git clone https://github.com/manuelm1209/personal-trainer.git
    cd personal-trainer
    ```
 
