@@ -1,4 +1,4 @@
-#!/Users/manuelmontoya/Documents/Projects/github/assistants/personal-trainer/.venv/bin/python3.12
+#!/Users/manuelmontoya/Documents/Projects/github/assistants/youtube-tutorial/personal-trainer-AI/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
